@@ -1,0 +1,18 @@
+// If you want to 
+
+{
+	"ID": "", // Make a dicord app and put the ID in here
+
+	"attributes" : {
+		"state": "",
+		"details": "",
+		"large_image": "",
+		"small_image": "",
+	},
+
+	"buttons": false,
+	"button_attributes" : {
+		"button1": {"label": "your label here", "url": "your url here"},
+		"button2": {"label": "your label here", "url": "your url here"}
+	}
+}
