@@ -1,18 +1,24 @@
-// If you want to 
-
 {
-	"ID": "", // Make a dicord app and put the ID in here
+	"id": 834822755752345611,
 
-	"attributes" : {
-		"state": "",
-		"details": "",
-		"large_image": "",
+	"attributes": {
+		"state": "Get robux",
+		"details": "Yes you claim right here",
+		"large_image": "aaamogus",
 		"small_image": "",
+		"large_image_tooltip": "",
+		"small_image_tooltip": ""
 	},
 
-	"buttons": false,
-	"button_attributes" : {
-		"button1": {"label": "your label here", "url": "your url here"},
-		"button2": {"label": "your label here", "url": "your url here"}
+	"button_attributes": {
+		"button1": [
+
+			{"label": "Claim now"},
+			{"url": "https://careerkarma.com/blog/python-jsondecodeerror/"}
+		],
+		"button2": [
+			{"label": "Your label here"},
+			{"url": "Your url here"}
+		]
 	}
 }
