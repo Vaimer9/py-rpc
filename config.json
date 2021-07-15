@@ -1,10 +1,10 @@
 {
-	"id": Null, // change the values of null and put your APP ID in here otherwise it wont work
+	"id": "delete the brackets and put number here",
 
 	"attributes": {
-		"state": "Get robux",
-		"details": "Yes you claim right here",
-		"large_image": "aaamogus",
+		"state": "",
+		"details": "",
+		"large_image": "",
 		"small_image": "",
 		"large_image_tooltip": "",
 		"small_image_tooltip": ""
@@ -13,8 +13,8 @@
 	"button_attributes": {
 		"button1": [
 
-			{"label": "Claim now"},
-			{"url": "https://careerkarma.com/blog/python-jsondecodeerror/"}
+			{"label": "Your label here"},
+			{"url": "Your url here"}
 		],
 		"button2": [
 			{"label": "Your label here"},
