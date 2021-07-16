@@ -2,23 +2,23 @@
 	"id": 834822755752345611,
 
 	"attributes": {
-		"state": "Get robux",
-		"details": "Yes you claim right here",
-		"large_image": "aaamogus",
+		"state": "This is a rich presence app",
+		"details": "Seems like a pretty good app",
+		"large_image": "gus",
 		"small_image": "",
-		"large_image_tooltip": "",
+		"large_image_tooltip": "sus",
 		"small_image_tooltip": ""
 	},
 
 	"button_attributes": {
 		"button1": [
 
-			{"label": "Claim now"},
-			{"url": "https://careerkarma.com/blog/python-jsondecodeerror/"}
+			{"label": "Get it for yourself"},
+			{"url": "https://github.com/Vaimer9/py-rpc"}
 		],
 		"button2": [
-			{"label": "Your label here"},
-			{"url": "Your url here"}
+			{"label": "placeholder"},
+			{"url": "placeholder"}
 		]
 	}
 }

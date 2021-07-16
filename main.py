@@ -28,9 +28,12 @@ client.connect()
 client.update(state=state,
               details=details,
               large_image=large_image,
-              buttons=[{"label": f"{label}","url":rf"{url}" }]
+              large_text=large_image_tooltip,
+              buttons=[{"label": f"{label}",
+              			"url":rf"https://github.com/Vaimer9/py-rpc"}]
 )
 print("The presence is now online")
 # This is the mainloop
 while True:
     time.sleep(15)
+    print("Refreshed")
